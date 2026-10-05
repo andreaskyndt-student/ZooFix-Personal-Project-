@@ -101,7 +101,7 @@ The project is being built incrementally, starting with the core animal manageme
 
 ### Current Focus
 
-* [ Here am I ] Project setup
+* [x] Project setup
 * [ ] PostgreSQL database
 * [ ] Backend API
 * [ ] React frontend
