@@ -1,0 +1,15 @@
+name: zoofix-dev
+
+services:
+  postgres:
+    image: postgres
+    container_name: zoofix-db-dev
+    env_file:
+      - .zoofix.env
+    volumes:
+      - zoofix-db-dev:/var/lib/postgresql
+    ports:
+      - "5432:5432"
+
+volumes:
+  zoofix-db-dev: 
