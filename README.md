@@ -82,11 +82,11 @@ ZooFix follows a client-server architecture:
         REST API
            │
 ┌──────────▼──────────┐
-│   ASP.NET Core API  │
-│         C#          │
+│       Laravel       │
+│         PHP         │
 └──────────┬──────────┘
            │
-      Entity Framework
+        Eloquent
            │
 ┌──────────▼──────────┐
 │     PostgreSQL      │
@@ -136,10 +136,10 @@ ZooFix is primarily a personal learning and development project focused on build
 The project provides an opportunity to explore:
 
 * REST API development
-* .NET and C#
+* Laravel Herd an Eloquent
+* PHP
 * React and TypeScript
 * PostgreSQL
-* Entity Framework Core
 * Database design
 * Full-stack application architecture
 * Testing
