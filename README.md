@@ -55,10 +55,10 @@ The initial focus is on **animal management**, with features centered around the
 
 ### Backend
 
-* C#
-* .NET
-* ASP.NET Core Web API
-* Entity Framework Core
+* PHP
+* Laravel Herd
+* Laravel Eloquent
+* Laravel REST API
 
 ### Frontend
 
@@ -102,7 +102,7 @@ The project is being built incrementally, starting with the core animal manageme
 ### Current Focus
 
 * [x] Project setup
-* [ ] PostgreSQL database
+* [x] PostgreSQL database
 * [ ] Backend API
 * [ ] React frontend
 * [ ] Animal management
